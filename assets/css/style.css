@@ -22,7 +22,7 @@ body {
   font-family: 'Lato', helvetica, sans-serif;
   height: 100%;
   width: 100%;
-  background-color: #e7e2d0;
+  background-color: #ffffff;
   font-size: 100%;
   /* 16px */
   line-height: 1.5;
@@ -243,7 +243,7 @@ div.right h2 {
 }
 div.right h2 .typcn {
   font-size: 2.5rem;
-  color: #e7e2d0;
+  color: #ffffff;
 }
 div.right h3 {
   border-bottom: 1px solid #464748;
