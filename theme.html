@@ -130,12 +130,10 @@
       </div><!-- end post wrapper -->
       {% endif %}
 
-      {% if not is_tag and posts|length >= 9 %}
       <div class="pagination">
         {% if pagination.prev %}<a href="{{ pagination.prev }}" class="post-prev">&laquo; Prev</a>{% endif %}
         {% if pagination.next %}<a href="{{ pagination.next }}" class="post-next">Next &raquo;</a>{% endif %}
       </div>
-      {% endif %}
 
       {% elif post %}
 
